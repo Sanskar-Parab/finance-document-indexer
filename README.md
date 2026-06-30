@@ -165,13 +165,7 @@ The assistant:
 Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/finance-rag-pipeline.git
-```
-
-Or, if you're using the complete FinMate AI project that contains both workflows:
-
-```bash
-git clone https://github.com/yourusername/finmate-ai.git
+git clone https://github.com/Sanskar-Parab/finance-document-indexer.git
 ```
 
 2. Import both workflows into n8n.
